@@ -32,6 +32,7 @@
                     default:
                         UpdateNormalItem(item, qualityChange);
                         break;
+              
                 }
             }
         }
